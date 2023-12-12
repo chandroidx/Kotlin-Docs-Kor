@@ -21,4 +21,4 @@
 <br>
 
 ## Is anything missing?
-빠지거나 애매한 내용이 있다면 [피드백]() 부탁드려요 :)
+빠지거나 애매한 내용이 있다면 [피드백](https://github.com/chandroidx/Kotlin-Docs-Kor/issues/new/choose) 부탁드려요 :)
